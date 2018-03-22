@@ -1,0 +1,19 @@
+This project uses the following items from Poly (http://poly.google.com):
+
+Title: Abstract Art
+Author: Jarlan Perez
+URL: https://poly.google.com/view/d3uGg-s0ZcF
+License: Creative Commons CC-BY
+https://creativecommons.org/licenses/by/3.0/legalcode
+
+Title: Sheep
+Author: Poly by Google
+URL: https://poly.google.com/view/aWFQcDSaDyo
+License: Creative Commons CC-BY
+https://creativecommons.org/licenses/by/3.0/legalcode
+
+Title: Windmill
+Author: Gavin Parker
+URL: https://poly.google.com/view/aJouyp2PTtZ
+License: Creative Commons CC-BY
+https://creativecommons.org/licenses/by/3.0/legalcode
